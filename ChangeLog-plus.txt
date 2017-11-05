@@ -33,5 +33,5 @@
 <li> Fixed GB Widget in some devices</li>
 <li> Other Fixes</li>
 
-","url":"www.4app.ml/search/label/W-PLUS"
+","url":"www.4app.ml"
 }
