@@ -1,5 +1,5 @@
 {"version_code":452065,"content":"
-<p>تحديث 07.11.17</p>
+<p>تحديث 1.70</p>
 
 <li>التحديث لنسخة الماركت 2.16.310</li>
 <li>إضافة فيسات الواتس اب الجديدة</li>
@@ -33,5 +33,5 @@
 <li> Fixed GB Widget in some devices</li>
 <li> Other Fixes</li>
 
-","url":"www.4app.ml"
+","url":"http://www.4app.ml/search/label/W-PLUS"
 }
