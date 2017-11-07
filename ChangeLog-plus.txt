@@ -1,17 +1,8 @@
-{"version_code":452018,"content":"
+{"version_code":452065,"content":"
 <p>تحديث 1.700</p>
 
-<li></li>
-<li></li>
-<li></li>
-<li></li>
 <li>إصلاحات اخرى</li>
 
-
-<li></li>
-<li></li>
-<li></li>
-<li></li>
 <li> Other Fixes</li>
 
 ","url":"http://www.4app.ml/search/label/W-PLUS"
