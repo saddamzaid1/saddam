@@ -1,9 +1,78 @@
 {"version_code":#,"content":"
-<p>تحديث 1.70</p>
+<p>تحديث 1.80</p>
 
-<li>إصلاحات اخرى</li>
+<li>*التحديث لنسخة الماركت 2.18.46
+*إضافة الرد التلقائي (يمكنك إرسال رد تلقائي للرسائل الواردة عندما تكون مشغولا)
+*تفعيل ميزة البحث عن عضو في معلومات المجموعة
+*إضافة إمكانية تعديل معلومات المجموعة من قبل المشرفين فقط
+*إضافة فيسات الواتساب الجديدة
+*إضافة 7 اشكال جديدة لفقاعة المحادثة الخيار رقم 1.2.3
+*إضافة 4 اشكال جديدة لصحين القراءة والاستلام الخيار رقم 6.1
+*إضافة 5 ايقونات جديدة لايقونة البرنامج الرئيسية الخيار رقم 6.0
+*إضافة 16 ايقونة جديدة لاشعارات الرسائل الخيار رقم 6.3
+*إضافة الخيار رقم 1.2.64 لتعطيل ظهور 'مشرف المجموعة' بجانب الاسم في المجموعة
+*إضافة الخيار رقم 1.2.65 لتغيير لون 'مشرف المجموعة' بجانب الاسم في المجموعة
+*إضافة الخيار رقم 2.7.7 لتغيير حجم الزر العائم
+*إضافة الخيار رقم 2.7.8 لتغيير مكان الزر العائم(يسار او يمين الشاشة)
+*إضافة الخيار رقم 2.1.10 لإخفاء ايقونة ايقاف الانترنت من شاشة المحادثات
+*إضافة الخيار رقم 5.6  لرفع فيديو في الحالة مدته 7 دقائق بدلا من 30 ثانية
+*إضافة ملصق الساعة
+*تحسين ميزة ارسال رسالة لرقم غير محفوظ في جهازك
+*تفعيل ميزة اشعار جهات اتصالك عند تغيير رقمك
+*يمكنك الان ايقاف الانترنت عن الواتساب ويبقى الانترنت يعمل في البرامج الاخرى
+*يمكنك إدارة مشرفي المجموعة من خلال معلومات المجموعة
+*إصلاح إمكانية فتح/الاتصال باي محادثة مخفية من خلال (تطبيق جهات الاتصال الموجود على الجهاز)
+*إصلاح ظهور المحادثات المخفية عند مشاركة ملف وسائط للبرنامج
+*إصلاح إمكانية فتح اي محادثة مخفية من خلال ميزة 'إرسال رسالة لرقم غير محفوظ في جهازك'
+*إصلاح ظهور المحادثات المخفية في الويدجت
+*إصلاح إمكانية فتح البرنامج من الويدجت عند وضع قفل للبرنامج
+*إصلاح إمكانية الاتصال بمحادثة مخفية من خلال المجموعة
+*إصلاح عدم عمل الخيار رقم 6.2 عند استقبال عدة صور(البوم)
+*إصلاح الخيار رقم 6.11 في بعض الإصدارات
+*إصلاح الانهيار عند فتح المحادثات التي فعلت خصوصيتها
+*إصلاح مشكلة عدم (فشل تشغيل هذا الفيديو) في بعض الاجهزة
+*إصلاح الوان شريط الحالة عند تحديد رسالة/محادثة
+*دعم اللغة الالمانية
+*دعم اللغة الهندية 
+*إصلاحات اخرى</li>
 
-<li> Other Fixes</li>
+<li>* New Base Updated to 2.18.46
+* (Super Exclusive) AutoReply (Auto Message when you are Busy)
+* Enabled Search Participants
+* Enabled Manage Group Admins
+* Enabled Group Settings (Server Sided) 
+* Enabled Change Number Notification
+* Enabled Clock Sticker
+* Added New Emojis
+* Exclusive DND Mode (Disable Internet only for WhatsApp) (Home Page - Header)
+* Exclusive Ability to identify Admin Msg in Group (Besides Number) 
+* Exclusive Option to Change Fab Size (Mod 2.7.7)
+* Exclusive Option to Change Fab Location/Position (Mod 2.7.8)
+* Added Option to Increase Video Limit in Status (Mod 5.6)
+* Added 7 New Conversation Bubbles
+* Added 4 New Ticks
+* Added 16 New Notifying Bar Icons
+* Added 5 New Launcher Icons 
+* Added Option to Hide Admin Caption in Group (Mod 1.2.64)
+* Added Option to Color Admin caption in Group (Mod 1.2.65)
+* Added Option to Hide DND Mode Icon (mod 2.1.10)
+* Added Hindi Language (Indian Language) 
+* Added German Language Support
+* Fixed Hidden Chat opening from Phones
+* Fixed Hidden Chat opening from Dialer
+* Fixed Hidden Message showing in Widget
+* Fixed Hidden Chat Opening from Widget
+* Fixed Able to call Hidden Chat From Group
+* Fixed Showing Hidden Chat when try to Share from Gallery or File Manager 
+* Fixed App Opening from Widget even when Locked
+* Fixed Crash On Some Devices
+* Fixed Navigation Bar Color when Select any chat/message
+* Fixed Mod 6.2 when Send/Receive More than 1 pic
+* Fixed Mod 6.11 for Android Oreo. 
+* Fixed Play Videos in some devices
+* Fixed Crash when open Custom Privacy Chats
+* Improved Dialer (Now you can Edit, Copy, Paste Numbers)
+* Other Fixes...</li>
 
-","url":"http://www.4app.ml/search/label/W-PLUS"
+","url":"http://www.4app.ml/search/label/SDWhatsApp"
 }
