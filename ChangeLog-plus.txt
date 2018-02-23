@@ -1,4 +1,4 @@
-{"version_code":452128,"content":"
+{"version_code":452127,"content":"
 <p>تحديث 1.80</p>
 
 <li>التحديث لنسخة الماركت 2.18.46</li>
