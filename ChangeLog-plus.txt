@@ -53,4 +53,5 @@
 <li> Fixed Hidden Group Opening from Groups in Common</li>
 <li> Many More Fixes</li>
 
-","url":"http://www.4app.ml/search/label/SDWhatsApp"
+","url":"https://www.4app.ml/search/label/SDWhatsApp"
+}
